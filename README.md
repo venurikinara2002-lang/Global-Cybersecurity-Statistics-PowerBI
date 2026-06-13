@@ -1,8 +1,8 @@
 # 🛡️ Global Cybersecurity Statistics & Interactive Power BI Dashboard
 
 Welcome to the **Global Cybersecurity Statistics** project! This repository contains a comprehensive historical dataset of 3,000 cybersecurity incidents spanning from **2015 to 2024** across 10 major nations, coupled with an interactive **Power BI Dashboard (`.pbix`)** designed to analyze trends, assess financial impacts, evaluate defense mechanisms, and uncover critical risk patterns.
-
-![Cybersecurity Dashboard Preview](assets/cybersecurity_dashboard.png)
+![Cybersecurity Dashboard Page 1](assets/page_1.png)
+![Cybersecurity Dashboard Page 2](assets/page_2.png)
 
 ---
 
